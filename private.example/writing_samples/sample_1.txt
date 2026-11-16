@@ -1,0 +1,10 @@
+Hi Alex,
+
+Saw that Acme was recently featured for launching the v2 inference engine—really liked how you handled streaming token delivery with zero client jitter.
+
+I'm a senior backend engineer specializing in high-throughput Python and agentic pipelines. At my previous startup, I scaled our FastAPI services to 1.2M daily active users while keeping latency under 50ms.
+
+Are you looking to expand your core backend team right now? Either way, keep up the great work on Acme.
+
+Best,
+Jane

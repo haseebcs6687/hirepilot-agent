@@ -1,0 +1,10 @@
+Hi Alex,
+
+Following up briefly on my note from last week regarding your engineering growth at Acme.
+
+Noticed your team just open-sourced the benchmark suite—super clean setup. If you're currently hiring or anticipating backend needs this quarter, I'd love to chat for 10 minutes.
+
+No worries if timing is off right now.
+
+Best,
+Jane

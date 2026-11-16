@@ -1,0 +1,46 @@
+# Template Candidate Profile
+# Fill in with your verified profile facts. The email writer uses ONLY these facts.
+
+candidate:
+  full_name: "Jane Doe"
+  preferred_name: "Jane"
+  email: "jane.doe.example@gmail.com"
+  location: "San Francisco, CA"
+  timezone: "America/Los_Angeles"
+  portfolio_url: "https://janedoe.example.com"
+  github_url: "https://github.com/example"
+
+target_roles:
+  - "Founding Engineer"
+  - "Senior Backend Engineer"
+  - "Staff Software Engineer"
+  - "AI Engineer"
+
+target_company_criteria:
+  stages: ["Seed", "Series A", "Series B"]
+  industries: ["Developer Tools", "AI / ML Platforms", "B2B SaaS", "Fintech"]
+  team_size_max: 60
+  geographies: ["US Remote", "San Francisco Bay Area"]
+
+proof_points:
+  - key: "scaling_backend"
+    claim: "Scaled a FastAPI and PostgreSQL distributed backend from 10k to 1.2M daily active users with sub-50ms latency."
+    tags: ["backend", "scaling", "fastapi", "performance"]
+  - key: "agentic_workflows"
+    claim: "Engineered multi-agent orchestration pipelines using LangGraph and LLMs that automated 80% of customer ticket triage."
+    tags: ["ai", "agents", "langgraph", "llm"]
+  - key: "cost_optimization"
+    claim: "Cut LLM inference costs by 65% through prompt caching, semantic routing, and fallback to open-weight models."
+    tags: ["cost", "optimization", "infrastructure"]
+
+tone_preferences:
+  length_words_max: 120
+  formality: "casual_professional"
+  include_salutation: "Hi {first_name},"
+  closing: "Best,\nJane"
+  max_links: 1
+  rules:
+    - "Never use corporate buzzwords like synergy, leverage, or thrilled."
+    - "First line must mention an authentic, specific observation about the company or product."
+    - "Only cite verified metrics listed in proof_points."
+    - "End with a single, frictionless low-pressure call-to-action."
